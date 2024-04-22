@@ -1,0 +1,9 @@
+name: Damagic
+version: 1.0
+api-version: 1.18
+main: org.bochnacki.damagic.Damagic
+commands:
+  damagic:
+    description: Controls the plugin (enables or disables it or its features)
+    aliases: [dmgc, dmagic]
+    usage: /damagic help
