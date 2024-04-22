@@ -1,7 +1,7 @@
 # Damagic
 ## Damagic plugin for Minecraft Server (Spigot)
 
-This plugin displays the damage done to mobs as a text value floating above their heads, meaning the exact health points being reduced as a result of player's attack or other factors like environmental damage. The text value changes its color depending on the damage source (physical damage is white, fire-based damage is orange, poison-based damage is orange, etc.).
+This plugin displays the damage done to mobs as a text value floating above their heads, meaning the exact amount of health points being reduced as a result of player's attack or other factors like environmental damage. The text value changes its color depending on the damage source (physical damage is white, fire-based damage is orange, poison-based damage is orange, etc.).
 
 ![sword_hit](https://github.com/s14906/damagic/assets/37453480/769a099b-69a6-41e4-9d3e-d1a6980cd203)
 ![fire_hit](https://github.com/s14906/damagic/assets/37453480/f71b80de-ce66-433a-ab8c-7e892608c18c)
